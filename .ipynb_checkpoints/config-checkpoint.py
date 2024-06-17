@@ -1,2 +1,3 @@
-username = "1337osaka"
-password = "fuck Mark 2903 $"
+username = "1337grimreaper"
+password = "test1337#ABC"
+target = "pharrell"
